@@ -1,5 +1,5 @@
-## Linux
+# Linux
 
-# Files & Dirs size
+## Files & Dirs size
 
-du -chd 1 | sort -h
+`du -chd 1 | sort -h`
